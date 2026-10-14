@@ -1,0 +1,1682 @@
+{
+  "/projects/carbon-economies/page-1.webp": {
+    "width": 2000,
+    "height": 1415,
+    "variants": [
+      {
+        "src": "/optimized/projects/carbon-economies/page-1-960.webp",
+        "width": 960,
+        "bytes": 82508
+      },
+      {
+        "src": "/optimized/projects/carbon-economies/page-1-1600.webp",
+        "width": 1600,
+        "bytes": 146764
+      }
+    ]
+  },
+  "/projects/carbon-economies/page-11.webp": {
+    "width": 2000,
+    "height": 1415,
+    "variants": [
+      {
+        "src": "/optimized/projects/carbon-economies/page-11-960.webp",
+        "width": 960,
+        "bytes": 82902
+      },
+      {
+        "src": "/optimized/projects/carbon-economies/page-11-1600.webp",
+        "width": 1600,
+        "bytes": 157434
+      }
+    ]
+  },
+  "/projects/carbon-economies/page-12.webp": {
+    "width": 2000,
+    "height": 1415,
+    "variants": [
+      {
+        "src": "/optimized/projects/carbon-economies/page-12-960.webp",
+        "width": 960,
+        "bytes": 93140
+      },
+      {
+        "src": "/optimized/projects/carbon-economies/page-12-1600.webp",
+        "width": 1600,
+        "bytes": 184000
+      }
+    ]
+  },
+  "/projects/carbon-economies/page-13.webp": {
+    "width": 2000,
+    "height": 1415,
+    "variants": [
+      {
+        "src": "/optimized/projects/carbon-economies/page-13-960.webp",
+        "width": 960,
+        "bytes": 74820
+      },
+      {
+        "src": "/optimized/projects/carbon-economies/page-13-1600.webp",
+        "width": 1600,
+        "bytes": 134250
+      }
+    ]
+  },
+  "/projects/carbon-economies/page-14.webp": {
+    "width": 2000,
+    "height": 1415,
+    "variants": [
+      {
+        "src": "/optimized/projects/carbon-economies/page-14-960.webp",
+        "width": 960,
+        "bytes": 104442
+      },
+      {
+        "src": "/optimized/projects/carbon-economies/page-14-1600.webp",
+        "width": 1600,
+        "bytes": 198582
+      }
+    ]
+  },
+  "/projects/carbon-economies/page-15.webp": {
+    "width": 2000,
+    "height": 1415,
+    "variants": [
+      {
+        "src": "/optimized/projects/carbon-economies/page-15-960.webp",
+        "width": 960,
+        "bytes": 77876
+      },
+      {
+        "src": "/optimized/projects/carbon-economies/page-15-1600.webp",
+        "width": 1600,
+        "bytes": 141206
+      }
+    ]
+  },
+  "/projects/carbon-economies/page-16.webp": {
+    "width": 2000,
+    "height": 1415,
+    "variants": [
+      {
+        "src": "/optimized/projects/carbon-economies/page-16-960.webp",
+        "width": 960,
+        "bytes": 101078
+      },
+      {
+        "src": "/optimized/projects/carbon-economies/page-16-1600.webp",
+        "width": 1600,
+        "bytes": 191606
+      }
+    ]
+  },
+  "/projects/carbon-economies/page-17.webp": {
+    "width": 2000,
+    "height": 1415,
+    "variants": [
+      {
+        "src": "/optimized/projects/carbon-economies/page-17-960.webp",
+        "width": 960,
+        "bytes": 97170
+      },
+      {
+        "src": "/optimized/projects/carbon-economies/page-17-1600.webp",
+        "width": 1600,
+        "bytes": 194270
+      }
+    ]
+  },
+  "/projects/carbon-economies/page-19.webp": {
+    "width": 2000,
+    "height": 1415,
+    "variants": [
+      {
+        "src": "/optimized/projects/carbon-economies/page-19-960.webp",
+        "width": 960,
+        "bytes": 90000
+      },
+      {
+        "src": "/optimized/projects/carbon-economies/page-19-1600.webp",
+        "width": 1600,
+        "bytes": 166250
+      }
+    ]
+  },
+  "/projects/carbon-economies/page-2.webp": {
+    "width": 2000,
+    "height": 1415,
+    "variants": [
+      {
+        "src": "/optimized/projects/carbon-economies/page-2-960.webp",
+        "width": 960,
+        "bytes": 86492
+      },
+      {
+        "src": "/optimized/projects/carbon-economies/page-2-1600.webp",
+        "width": 1600,
+        "bytes": 156520
+      }
+    ]
+  },
+  "/projects/carbon-economies/page-20.webp": {
+    "width": 2000,
+    "height": 1415,
+    "variants": [
+      {
+        "src": "/optimized/projects/carbon-economies/page-20-960.webp",
+        "width": 960,
+        "bytes": 122116
+      },
+      {
+        "src": "/optimized/projects/carbon-economies/page-20-1600.webp",
+        "width": 1600,
+        "bytes": 210894
+      }
+    ]
+  },
+  "/projects/carbon-economies/page-21.webp": {
+    "width": 2000,
+    "height": 1415,
+    "variants": [
+      {
+        "src": "/optimized/projects/carbon-economies/page-21-960.webp",
+        "width": 960,
+        "bytes": 81056
+      },
+      {
+        "src": "/optimized/projects/carbon-economies/page-21-1600.webp",
+        "width": 1600,
+        "bytes": 143680
+      }
+    ]
+  },
+  "/projects/carbon-economies/page-22.webp": {
+    "width": 2000,
+    "height": 1415,
+    "variants": [
+      {
+        "src": "/optimized/projects/carbon-economies/page-22-960.webp",
+        "width": 960,
+        "bytes": 129724
+      },
+      {
+        "src": "/optimized/projects/carbon-economies/page-22-1600.webp",
+        "width": 1600,
+        "bytes": 259036
+      }
+    ]
+  },
+  "/projects/carbon-economies/page-23.webp": {
+    "width": 2000,
+    "height": 1415,
+    "variants": [
+      {
+        "src": "/optimized/projects/carbon-economies/page-23-960.webp",
+        "width": 960,
+        "bytes": 96110
+      },
+      {
+        "src": "/optimized/projects/carbon-economies/page-23-1600.webp",
+        "width": 1600,
+        "bytes": 180844
+      }
+    ]
+  },
+  "/projects/carbon-economies/page-24.webp": {
+    "width": 2000,
+    "height": 1415,
+    "variants": [
+      {
+        "src": "/optimized/projects/carbon-economies/page-24-960.webp",
+        "width": 960,
+        "bytes": 107322
+      },
+      {
+        "src": "/optimized/projects/carbon-economies/page-24-1600.webp",
+        "width": 1600,
+        "bytes": 205226
+      }
+    ]
+  },
+  "/projects/carbon-economies/page-25.webp": {
+    "width": 2000,
+    "height": 1415,
+    "variants": [
+      {
+        "src": "/optimized/projects/carbon-economies/page-25-960.webp",
+        "width": 960,
+        "bytes": 125424
+      },
+      {
+        "src": "/optimized/projects/carbon-economies/page-25-1600.webp",
+        "width": 1600,
+        "bytes": 227108
+      }
+    ]
+  },
+  "/projects/carbon-economies/page-26.webp": {
+    "width": 2000,
+    "height": 1415,
+    "variants": [
+      {
+        "src": "/optimized/projects/carbon-economies/page-26-960.webp",
+        "width": 960,
+        "bytes": 113360
+      },
+      {
+        "src": "/optimized/projects/carbon-economies/page-26-1600.webp",
+        "width": 1600,
+        "bytes": 235414
+      }
+    ]
+  },
+  "/projects/carbon-economies/page-6.webp": {
+    "width": 2000,
+    "height": 1415,
+    "variants": [
+      {
+        "src": "/optimized/projects/carbon-economies/page-6-960.webp",
+        "width": 960,
+        "bytes": 90190
+      },
+      {
+        "src": "/optimized/projects/carbon-economies/page-6-1600.webp",
+        "width": 1600,
+        "bytes": 158118
+      }
+    ]
+  },
+  "/projects/carbon-economies/page-7.webp": {
+    "width": 2000,
+    "height": 1415,
+    "variants": [
+      {
+        "src": "/optimized/projects/carbon-economies/page-7-960.webp",
+        "width": 960,
+        "bytes": 75662
+      },
+      {
+        "src": "/optimized/projects/carbon-economies/page-7-1600.webp",
+        "width": 1600,
+        "bytes": 145900
+      }
+    ]
+  },
+  "/projects/carbon-economies/page-9.webp": {
+    "width": 2000,
+    "height": 1415,
+    "variants": [
+      {
+        "src": "/optimized/projects/carbon-economies/page-9-960.webp",
+        "width": 960,
+        "bytes": 73394
+      },
+      {
+        "src": "/optimized/projects/carbon-economies/page-9-1600.webp",
+        "width": 1600,
+        "bytes": 135448
+      }
+    ]
+  },
+  "/projects/city-of-dawn/cover-original.webp": {
+    "width": 2800,
+    "height": 1980,
+    "variants": [
+      {
+        "src": "/optimized/projects/city-of-dawn/cover-original-960.webp",
+        "width": 960,
+        "bytes": 79760
+      },
+      {
+        "src": "/optimized/projects/city-of-dawn/cover-original-1600.webp",
+        "width": 1600,
+        "bytes": 184908
+      }
+    ]
+  },
+  "/projects/city-of-dawn/page-1.webp": {
+    "width": 6000,
+    "height": 2122,
+    "variants": [
+      {
+        "src": "/optimized/projects/city-of-dawn/page-1-960.webp",
+        "width": 960,
+        "bytes": 50402
+      },
+      {
+        "src": "/optimized/projects/city-of-dawn/page-1-1600.webp",
+        "width": 1600,
+        "bytes": 108438
+      }
+    ]
+  },
+  "/projects/city-of-dawn/page-2.webp": {
+    "width": 6000,
+    "height": 2122,
+    "variants": [
+      {
+        "src": "/optimized/projects/city-of-dawn/page-2-960.webp",
+        "width": 960,
+        "bytes": 70012
+      },
+      {
+        "src": "/optimized/projects/city-of-dawn/page-2-1600.webp",
+        "width": 1600,
+        "bytes": 161552
+      }
+    ]
+  },
+  "/projects/city-of-dawn/page-3.webp": {
+    "width": 6000,
+    "height": 2122,
+    "variants": [
+      {
+        "src": "/optimized/projects/city-of-dawn/page-3-960.webp",
+        "width": 960,
+        "bytes": 75656
+      },
+      {
+        "src": "/optimized/projects/city-of-dawn/page-3-1600.webp",
+        "width": 1600,
+        "bytes": 168542
+      }
+    ]
+  },
+  "/projects/detailing-risk/page-11.webp": {
+    "width": 2000,
+    "height": 1415,
+    "variants": [
+      {
+        "src": "/optimized/projects/detailing-risk/page-11-960.webp",
+        "width": 960,
+        "bytes": 75158
+      },
+      {
+        "src": "/optimized/projects/detailing-risk/page-11-1600.webp",
+        "width": 1600,
+        "bytes": 145936
+      }
+    ]
+  },
+  "/projects/detailing-risk/page-15.webp": {
+    "width": 2000,
+    "height": 1415,
+    "variants": [
+      {
+        "src": "/optimized/projects/detailing-risk/page-15-960.webp",
+        "width": 960,
+        "bytes": 95780
+      },
+      {
+        "src": "/optimized/projects/detailing-risk/page-15-1600.webp",
+        "width": 1600,
+        "bytes": 193570
+      }
+    ]
+  },
+  "/projects/detailing-risk/page-17.webp": {
+    "width": 2000,
+    "height": 1415,
+    "variants": [
+      {
+        "src": "/optimized/projects/detailing-risk/page-17-960.webp",
+        "width": 960,
+        "bytes": 77094
+      },
+      {
+        "src": "/optimized/projects/detailing-risk/page-17-1600.webp",
+        "width": 1600,
+        "bytes": 143148
+      }
+    ]
+  },
+  "/projects/detailing-risk/page-21.webp": {
+    "width": 2000,
+    "height": 1415,
+    "variants": [
+      {
+        "src": "/optimized/projects/detailing-risk/page-21-960.webp",
+        "width": 960,
+        "bytes": 104148
+      },
+      {
+        "src": "/optimized/projects/detailing-risk/page-21-1600.webp",
+        "width": 1600,
+        "bytes": 171076
+      }
+    ]
+  },
+  "/projects/detailing-risk/page-3.webp": {
+    "width": 2000,
+    "height": 1415,
+    "variants": [
+      {
+        "src": "/optimized/projects/detailing-risk/page-3-960.webp",
+        "width": 960,
+        "bytes": 95628
+      },
+      {
+        "src": "/optimized/projects/detailing-risk/page-3-1600.webp",
+        "width": 1600,
+        "bytes": 177756
+      }
+    ]
+  },
+  "/projects/detailing-risk/page-8.webp": {
+    "width": 2000,
+    "height": 1415,
+    "variants": [
+      {
+        "src": "/optimized/projects/detailing-risk/page-8-960.webp",
+        "width": 960,
+        "bytes": 97866
+      },
+      {
+        "src": "/optimized/projects/detailing-risk/page-8-1600.webp",
+        "width": 1600,
+        "bytes": 186966
+      }
+    ]
+  },
+  "/projects/detailing-risk/page-9.webp": {
+    "width": 2000,
+    "height": 1415,
+    "variants": [
+      {
+        "src": "/optimized/projects/detailing-risk/page-9-960.webp",
+        "width": 960,
+        "bytes": 73652
+      },
+      {
+        "src": "/optimized/projects/detailing-risk/page-9-1600.webp",
+        "width": 1600,
+        "bytes": 140442
+      }
+    ]
+  },
+  "/projects/great-world/concept.webp": {
+    "width": 1800,
+    "height": 1273,
+    "variants": [
+      {
+        "src": "/optimized/projects/great-world/concept-960.webp",
+        "width": 960,
+        "bytes": 104152
+      },
+      {
+        "src": "/optimized/projects/great-world/concept-1600.webp",
+        "width": 1600,
+        "bytes": 211300
+      }
+    ]
+  },
+  "/projects/great-world/context.webp": {
+    "width": 1800,
+    "height": 1273,
+    "variants": [
+      {
+        "src": "/optimized/projects/great-world/context-960.webp",
+        "width": 960,
+        "bytes": 156166
+      },
+      {
+        "src": "/optimized/projects/great-world/context-1600.webp",
+        "width": 1600,
+        "bytes": 328728
+      }
+    ]
+  },
+  "/projects/great-world/cover.webp": {
+    "width": 1800,
+    "height": 1273,
+    "variants": [
+      {
+        "src": "/optimized/projects/great-world/cover-960.webp",
+        "width": 960,
+        "bytes": 161122
+      },
+      {
+        "src": "/optimized/projects/great-world/cover-1600.webp",
+        "width": 1600,
+        "bytes": 333480
+      }
+    ]
+  },
+  "/projects/great-world/experience.webp": {
+    "width": 1800,
+    "height": 1273,
+    "variants": [
+      {
+        "src": "/optimized/projects/great-world/experience-960.webp",
+        "width": 960,
+        "bytes": 102136
+      },
+      {
+        "src": "/optimized/projects/great-world/experience-1600.webp",
+        "width": 1600,
+        "bytes": 214134
+      }
+    ]
+  },
+  "/projects/great-world/page-1.jpg": {
+    "width": 3600,
+    "height": 1273,
+    "variants": [
+      {
+        "src": "/optimized/projects/great-world/page-1-960.webp",
+        "width": 960,
+        "bytes": 100586
+      },
+      {
+        "src": "/optimized/projects/great-world/page-1-1600.webp",
+        "width": 1600,
+        "bytes": 256576
+      }
+    ]
+  },
+  "/projects/great-world/page-2.jpg": {
+    "width": 3600,
+    "height": 1273,
+    "variants": [
+      {
+        "src": "/optimized/projects/great-world/page-2-960.webp",
+        "width": 960,
+        "bytes": 68660
+      },
+      {
+        "src": "/optimized/projects/great-world/page-2-1600.webp",
+        "width": 1600,
+        "bytes": 158662
+      }
+    ]
+  },
+  "/projects/great-world/page-3.jpg": {
+    "width": 3600,
+    "height": 1273,
+    "variants": [
+      {
+        "src": "/optimized/projects/great-world/page-3-960.webp",
+        "width": 960,
+        "bytes": 75604
+      },
+      {
+        "src": "/optimized/projects/great-world/page-3-1600.webp",
+        "width": 1600,
+        "bytes": 173822
+      }
+    ]
+  },
+  "/projects/great-world/plans.webp": {
+    "width": 1800,
+    "height": 1273,
+    "variants": [
+      {
+        "src": "/optimized/projects/great-world/plans-960.webp",
+        "width": 960,
+        "bytes": 110804
+      },
+      {
+        "src": "/optimized/projects/great-world/plans-1600.webp",
+        "width": 1600,
+        "bytes": 240578
+      }
+    ]
+  },
+  "/projects/great-world/research.webp": {
+    "width": 1800,
+    "height": 1273,
+    "variants": [
+      {
+        "src": "/optimized/projects/great-world/research-960.webp",
+        "width": 960,
+        "bytes": 93044
+      },
+      {
+        "src": "/optimized/projects/great-world/research-1600.webp",
+        "width": 1600,
+        "bytes": 181308
+      }
+    ]
+  },
+  "/projects/material-process/page-1.webp": {
+    "width": 2000,
+    "height": 1415,
+    "variants": [
+      {
+        "src": "/optimized/projects/material-process/page-1-960.webp",
+        "width": 960,
+        "bytes": 124024
+      },
+      {
+        "src": "/optimized/projects/material-process/page-1-1600.webp",
+        "width": 1600,
+        "bytes": 230240
+      }
+    ]
+  },
+  "/projects/material-process/page-10.webp": {
+    "width": 2000,
+    "height": 1415,
+    "variants": [
+      {
+        "src": "/optimized/projects/material-process/page-10-960.webp",
+        "width": 960,
+        "bytes": 124030
+      },
+      {
+        "src": "/optimized/projects/material-process/page-10-1600.webp",
+        "width": 1600,
+        "bytes": 241216
+      }
+    ]
+  },
+  "/projects/material-process/page-11.webp": {
+    "width": 2000,
+    "height": 1415,
+    "variants": [
+      {
+        "src": "/optimized/projects/material-process/page-11-960.webp",
+        "width": 960,
+        "bytes": 137336
+      },
+      {
+        "src": "/optimized/projects/material-process/page-11-1600.webp",
+        "width": 1600,
+        "bytes": 252514
+      }
+    ]
+  },
+  "/projects/material-process/page-12.webp": {
+    "width": 2000,
+    "height": 1415,
+    "variants": [
+      {
+        "src": "/optimized/projects/material-process/page-12-960.webp",
+        "width": 960,
+        "bytes": 116420
+      },
+      {
+        "src": "/optimized/projects/material-process/page-12-1600.webp",
+        "width": 1600,
+        "bytes": 211500
+      }
+    ]
+  },
+  "/projects/material-process/page-14.webp": {
+    "width": 2000,
+    "height": 1415,
+    "variants": [
+      {
+        "src": "/optimized/projects/material-process/page-14-960.webp",
+        "width": 960,
+        "bytes": 110122
+      },
+      {
+        "src": "/optimized/projects/material-process/page-14-1600.webp",
+        "width": 1600,
+        "bytes": 204348
+      }
+    ]
+  },
+  "/projects/material-process/page-15.webp": {
+    "width": 2000,
+    "height": 1415,
+    "variants": [
+      {
+        "src": "/optimized/projects/material-process/page-15-960.webp",
+        "width": 960,
+        "bytes": 161842
+      },
+      {
+        "src": "/optimized/projects/material-process/page-15-1600.webp",
+        "width": 1600,
+        "bytes": 329548
+      }
+    ]
+  },
+  "/projects/material-process/page-17.webp": {
+    "width": 2000,
+    "height": 1415,
+    "variants": [
+      {
+        "src": "/optimized/projects/material-process/page-17-960.webp",
+        "width": 960,
+        "bytes": 126172
+      },
+      {
+        "src": "/optimized/projects/material-process/page-17-1600.webp",
+        "width": 1600,
+        "bytes": 250478
+      }
+    ]
+  },
+  "/projects/material-process/page-18.webp": {
+    "width": 2000,
+    "height": 1415,
+    "variants": [
+      {
+        "src": "/optimized/projects/material-process/page-18-960.webp",
+        "width": 960,
+        "bytes": 121984
+      },
+      {
+        "src": "/optimized/projects/material-process/page-18-1600.webp",
+        "width": 1600,
+        "bytes": 229860
+      }
+    ]
+  },
+  "/projects/material-process/page-19.webp": {
+    "width": 3000,
+    "height": 1061,
+    "variants": [
+      {
+        "src": "/optimized/projects/material-process/page-19-960.webp",
+        "width": 960,
+        "bytes": 80666
+      },
+      {
+        "src": "/optimized/projects/material-process/page-19-1600.webp",
+        "width": 1600,
+        "bytes": 173644
+      }
+    ]
+  },
+  "/projects/material-process/page-3.webp": {
+    "width": 2000,
+    "height": 1415,
+    "variants": [
+      {
+        "src": "/optimized/projects/material-process/page-3-960.webp",
+        "width": 960,
+        "bytes": 101070
+      },
+      {
+        "src": "/optimized/projects/material-process/page-3-1600.webp",
+        "width": 1600,
+        "bytes": 198882
+      }
+    ]
+  },
+  "/projects/material-process/page-5.webp": {
+    "width": 2000,
+    "height": 1415,
+    "variants": [
+      {
+        "src": "/optimized/projects/material-process/page-5-960.webp",
+        "width": 960,
+        "bytes": 132924
+      },
+      {
+        "src": "/optimized/projects/material-process/page-5-1600.webp",
+        "width": 1600,
+        "bytes": 255014
+      }
+    ]
+  },
+  "/projects/material-process/page-6.webp": {
+    "width": 2000,
+    "height": 1415,
+    "variants": [
+      {
+        "src": "/optimized/projects/material-process/page-6-960.webp",
+        "width": 960,
+        "bytes": 104774
+      },
+      {
+        "src": "/optimized/projects/material-process/page-6-1600.webp",
+        "width": 1600,
+        "bytes": 199452
+      }
+    ]
+  },
+  "/projects/material-process/page-7.webp": {
+    "width": 2000,
+    "height": 1415,
+    "variants": [
+      {
+        "src": "/optimized/projects/material-process/page-7-960.webp",
+        "width": 960,
+        "bytes": 139820
+      },
+      {
+        "src": "/optimized/projects/material-process/page-7-1600.webp",
+        "width": 1600,
+        "bytes": 279250
+      }
+    ]
+  },
+  "/projects/material-process/page-8.webp": {
+    "width": 2000,
+    "height": 1415,
+    "variants": [
+      {
+        "src": "/optimized/projects/material-process/page-8-960.webp",
+        "width": 960,
+        "bytes": 172204
+      },
+      {
+        "src": "/optimized/projects/material-process/page-8-1600.webp",
+        "width": 1600,
+        "bytes": 350448
+      }
+    ]
+  },
+  "/projects/material-process/page-9.webp": {
+    "width": 2000,
+    "height": 1415,
+    "variants": [
+      {
+        "src": "/optimized/projects/material-process/page-9-960.webp",
+        "width": 960,
+        "bytes": 141168
+      },
+      {
+        "src": "/optimized/projects/material-process/page-9-1600.webp",
+        "width": 1600,
+        "bytes": 277628
+      }
+    ]
+  },
+  "/projects/material-process/pavilion-left.webp": {
+    "width": 2800,
+    "height": 1981,
+    "variants": [
+      {
+        "src": "/optimized/projects/material-process/pavilion-left-960.webp",
+        "width": 960,
+        "bytes": 100670
+      },
+      {
+        "src": "/optimized/projects/material-process/pavilion-left-1600.webp",
+        "width": 1600,
+        "bytes": 190770
+      }
+    ]
+  },
+  "/projects/material-process/pavilion-right.webp": {
+    "width": 2800,
+    "height": 1981,
+    "variants": [
+      {
+        "src": "/optimized/projects/material-process/pavilion-right-960.webp",
+        "width": 960,
+        "bytes": 136538
+      },
+      {
+        "src": "/optimized/projects/material-process/pavilion-right-1600.webp",
+        "width": 1600,
+        "bytes": 277132
+      }
+    ]
+  },
+  "/projects/power-station/page-1.webp": {
+    "width": 2000,
+    "height": 708,
+    "variants": [
+      {
+        "src": "/optimized/projects/power-station/page-1-960.webp",
+        "width": 960,
+        "bytes": 88786
+      },
+      {
+        "src": "/optimized/projects/power-station/page-1-1600.webp",
+        "width": 1600,
+        "bytes": 201346
+      }
+    ]
+  },
+  "/projects/power-station/page-2.webp": {
+    "width": 2000,
+    "height": 708,
+    "variants": [
+      {
+        "src": "/optimized/projects/power-station/page-2-960.webp",
+        "width": 960,
+        "bytes": 74058
+      },
+      {
+        "src": "/optimized/projects/power-station/page-2-1600.webp",
+        "width": 1600,
+        "bytes": 179276
+      }
+    ]
+  },
+  "/projects/power-station/page-3.webp": {
+    "width": 2000,
+    "height": 708,
+    "variants": [
+      {
+        "src": "/optimized/projects/power-station/page-3-960.webp",
+        "width": 960,
+        "bytes": 81704
+      },
+      {
+        "src": "/optimized/projects/power-station/page-3-1600.webp",
+        "width": 1600,
+        "bytes": 179234
+      }
+    ]
+  },
+  "/projects/power-station/page-4.webp": {
+    "width": 2000,
+    "height": 708,
+    "variants": [
+      {
+        "src": "/optimized/projects/power-station/page-4-960.webp",
+        "width": 960,
+        "bytes": 90970
+      },
+      {
+        "src": "/optimized/projects/power-station/page-4-1600.webp",
+        "width": 1600,
+        "bytes": 203884
+      }
+    ]
+  },
+  "/projects/security-theatre/archive-map.webp": {
+    "width": 2800,
+    "height": 1980,
+    "variants": [
+      {
+        "src": "/optimized/projects/security-theatre/archive-map-960.webp",
+        "width": 960,
+        "bytes": 99072
+      },
+      {
+        "src": "/optimized/projects/security-theatre/archive-map-1600.webp",
+        "width": 1600,
+        "bytes": 270886
+      }
+    ]
+  },
+  "/projects/security-theatre/page-1.webp": {
+    "width": 2600,
+    "height": 1845,
+    "variants": [
+      {
+        "src": "/optimized/projects/security-theatre/page-1-960.webp",
+        "width": 960,
+        "bytes": 128698
+      },
+      {
+        "src": "/optimized/projects/security-theatre/page-1-1600.webp",
+        "width": 1600,
+        "bytes": 284362
+      }
+    ]
+  },
+  "/projects/security-theatre/page-2.webp": {
+    "width": 2600,
+    "height": 1845,
+    "variants": [
+      {
+        "src": "/optimized/projects/security-theatre/page-2-960.webp",
+        "width": 960,
+        "bytes": 201178
+      },
+      {
+        "src": "/optimized/projects/security-theatre/page-2-1600.webp",
+        "width": 1600,
+        "bytes": 454874
+      }
+    ]
+  },
+  "/projects/security-theatre/page-3.webp": {
+    "width": 2600,
+    "height": 1845,
+    "variants": [
+      {
+        "src": "/optimized/projects/security-theatre/page-3-960.webp",
+        "width": 960,
+        "bytes": 70942
+      },
+      {
+        "src": "/optimized/projects/security-theatre/page-3-1600.webp",
+        "width": 1600,
+        "bytes": 153258
+      }
+    ]
+  },
+  "/projects/security-theatre/page-4.webp": {
+    "width": 2600,
+    "height": 1845,
+    "variants": [
+      {
+        "src": "/optimized/projects/security-theatre/page-4-960.webp",
+        "width": 960,
+        "bytes": 132108
+      },
+      {
+        "src": "/optimized/projects/security-theatre/page-4-1600.webp",
+        "width": 1600,
+        "bytes": 288936
+      }
+    ]
+  },
+  "/projects/security-theatre/page-5.webp": {
+    "width": 2600,
+    "height": 1845,
+    "variants": [
+      {
+        "src": "/optimized/projects/security-theatre/page-5-960.webp",
+        "width": 960,
+        "bytes": 228832
+      },
+      {
+        "src": "/optimized/projects/security-theatre/page-5-1600.webp",
+        "width": 1600,
+        "bytes": 538584
+      }
+    ]
+  },
+  "/projects/security-theatre/page-6.webp": {
+    "width": 2600,
+    "height": 1845,
+    "variants": [
+      {
+        "src": "/optimized/projects/security-theatre/page-6-960.webp",
+        "width": 960,
+        "bytes": 100534
+      },
+      {
+        "src": "/optimized/projects/security-theatre/page-6-1600.webp",
+        "width": 1600,
+        "bytes": 223172
+      }
+    ]
+  },
+  "/projects/security-theatre/page-7.webp": {
+    "width": 2600,
+    "height": 1845,
+    "variants": [
+      {
+        "src": "/optimized/projects/security-theatre/page-7-960.webp",
+        "width": 960,
+        "bytes": 202328
+      },
+      {
+        "src": "/optimized/projects/security-theatre/page-7-1600.webp",
+        "width": 1600,
+        "bytes": 474406
+      }
+    ]
+  },
+  "/projects/security-theatre/page-8.webp": {
+    "width": 5000,
+    "height": 3548,
+    "variants": [
+      {
+        "src": "/optimized/projects/security-theatre/page-8-960.webp",
+        "width": 960,
+        "bytes": 124038
+      },
+      {
+        "src": "/optimized/projects/security-theatre/page-8-1600.webp",
+        "width": 1600,
+        "bytes": 279760
+      }
+    ]
+  },
+  "/projects/security-theatre/page-9.webp": {
+    "width": 2600,
+    "height": 1845,
+    "variants": [
+      {
+        "src": "/optimized/projects/security-theatre/page-9-960.webp",
+        "width": 960,
+        "bytes": 93922
+      },
+      {
+        "src": "/optimized/projects/security-theatre/page-9-1600.webp",
+        "width": 1600,
+        "bytes": 188302
+      }
+    ]
+  },
+  "/projects/security-theatre/research-poster.webp": {
+    "width": 2048,
+    "height": 2800,
+    "variants": [
+      {
+        "src": "/optimized/projects/security-theatre/research-poster-960.webp",
+        "width": 960,
+        "bytes": 381758
+      },
+      {
+        "src": "/optimized/projects/security-theatre/research-poster-1600.webp",
+        "width": 1600,
+        "bytes": 838922
+      }
+    ]
+  },
+  "/projects/shanghai-future-memory/page-2.webp": {
+    "width": 2000,
+    "height": 1500,
+    "variants": [
+      {
+        "src": "/optimized/projects/shanghai-future-memory/page-2-960.webp",
+        "width": 960,
+        "bytes": 131392
+      },
+      {
+        "src": "/optimized/projects/shanghai-future-memory/page-2-1600.webp",
+        "width": 1600,
+        "bytes": 279740
+      }
+    ]
+  },
+  "/projects/shanghai-future-memory/page-5.webp": {
+    "width": 2000,
+    "height": 1500,
+    "variants": [
+      {
+        "src": "/optimized/projects/shanghai-future-memory/page-5-960.webp",
+        "width": 960,
+        "bytes": 110968
+      },
+      {
+        "src": "/optimized/projects/shanghai-future-memory/page-5-1600.webp",
+        "width": 1600,
+        "bytes": 214212
+      }
+    ]
+  },
+  "/projects/shanghai-future-memory/page-6.webp": {
+    "width": 2000,
+    "height": 1500,
+    "variants": [
+      {
+        "src": "/optimized/projects/shanghai-future-memory/page-6-960.webp",
+        "width": 960,
+        "bytes": 64786
+      },
+      {
+        "src": "/optimized/projects/shanghai-future-memory/page-6-1600.webp",
+        "width": 1600,
+        "bytes": 118878
+      }
+    ]
+  },
+  "/projects/shanghai-future-memory/page-9.webp": {
+    "width": 2000,
+    "height": 1500,
+    "variants": [
+      {
+        "src": "/optimized/projects/shanghai-future-memory/page-9-960.webp",
+        "width": 960,
+        "bytes": 72926
+      },
+      {
+        "src": "/optimized/projects/shanghai-future-memory/page-9-1600.webp",
+        "width": 1600,
+        "bytes": 133236
+      }
+    ]
+  },
+  "/projects/straw-rebirth/page-10.webp": {
+    "width": 2000,
+    "height": 2829,
+    "variants": [
+      {
+        "src": "/optimized/projects/straw-rebirth/page-10-960.webp",
+        "width": 960,
+        "bytes": 80372
+      },
+      {
+        "src": "/optimized/projects/straw-rebirth/page-10-1600.webp",
+        "width": 1600,
+        "bytes": 143624
+      }
+    ]
+  },
+  "/projects/straw-rebirth/page-11.webp": {
+    "width": 2000,
+    "height": 2829,
+    "variants": [
+      {
+        "src": "/optimized/projects/straw-rebirth/page-11-960.webp",
+        "width": 960,
+        "bytes": 123672
+      },
+      {
+        "src": "/optimized/projects/straw-rebirth/page-11-1600.webp",
+        "width": 1600,
+        "bytes": 226072
+      }
+    ]
+  },
+  "/projects/straw-rebirth/page-12.webp": {
+    "width": 2000,
+    "height": 2829,
+    "variants": [
+      {
+        "src": "/optimized/projects/straw-rebirth/page-12-960.webp",
+        "width": 960,
+        "bytes": 145626
+      },
+      {
+        "src": "/optimized/projects/straw-rebirth/page-12-1600.webp",
+        "width": 1600,
+        "bytes": 256178
+      }
+    ]
+  },
+  "/projects/straw-rebirth/page-13.webp": {
+    "width": 2000,
+    "height": 2829,
+    "variants": [
+      {
+        "src": "/optimized/projects/straw-rebirth/page-13-960.webp",
+        "width": 960,
+        "bytes": 195480
+      },
+      {
+        "src": "/optimized/projects/straw-rebirth/page-13-1600.webp",
+        "width": 1600,
+        "bytes": 347928
+      }
+    ]
+  },
+  "/projects/straw-rebirth/page-14.webp": {
+    "width": 2000,
+    "height": 2829,
+    "variants": [
+      {
+        "src": "/optimized/projects/straw-rebirth/page-14-960.webp",
+        "width": 960,
+        "bytes": 158030
+      },
+      {
+        "src": "/optimized/projects/straw-rebirth/page-14-1600.webp",
+        "width": 1600,
+        "bytes": 290340
+      }
+    ]
+  },
+  "/projects/straw-rebirth/page-15.webp": {
+    "width": 2000,
+    "height": 2829,
+    "variants": [
+      {
+        "src": "/optimized/projects/straw-rebirth/page-15-960.webp",
+        "width": 960,
+        "bytes": 155692
+      },
+      {
+        "src": "/optimized/projects/straw-rebirth/page-15-1600.webp",
+        "width": 1600,
+        "bytes": 271696
+      }
+    ]
+  },
+  "/projects/straw-rebirth/page-16.webp": {
+    "width": 2000,
+    "height": 2829,
+    "variants": [
+      {
+        "src": "/optimized/projects/straw-rebirth/page-16-960.webp",
+        "width": 960,
+        "bytes": 175612
+      },
+      {
+        "src": "/optimized/projects/straw-rebirth/page-16-1600.webp",
+        "width": 1600,
+        "bytes": 308868
+      }
+    ]
+  },
+  "/projects/straw-rebirth/page-18.webp": {
+    "width": 2000,
+    "height": 2829,
+    "variants": [
+      {
+        "src": "/optimized/projects/straw-rebirth/page-18-960.webp",
+        "width": 960,
+        "bytes": 119434
+      },
+      {
+        "src": "/optimized/projects/straw-rebirth/page-18-1600.webp",
+        "width": 1600,
+        "bytes": 218374
+      }
+    ]
+  },
+  "/projects/straw-rebirth/page-19.webp": {
+    "width": 2000,
+    "height": 2829,
+    "variants": [
+      {
+        "src": "/optimized/projects/straw-rebirth/page-19-960.webp",
+        "width": 960,
+        "bytes": 148574
+      },
+      {
+        "src": "/optimized/projects/straw-rebirth/page-19-1600.webp",
+        "width": 1600,
+        "bytes": 276052
+      }
+    ]
+  },
+  "/projects/straw-rebirth/page-20.webp": {
+    "width": 2000,
+    "height": 2829,
+    "variants": [
+      {
+        "src": "/optimized/projects/straw-rebirth/page-20-960.webp",
+        "width": 960,
+        "bytes": 104524
+      },
+      {
+        "src": "/optimized/projects/straw-rebirth/page-20-1600.webp",
+        "width": 1600,
+        "bytes": 189696
+      }
+    ]
+  },
+  "/projects/straw-rebirth/page-21.webp": {
+    "width": 2000,
+    "height": 2829,
+    "variants": [
+      {
+        "src": "/optimized/projects/straw-rebirth/page-21-960.webp",
+        "width": 960,
+        "bytes": 150662
+      },
+      {
+        "src": "/optimized/projects/straw-rebirth/page-21-1600.webp",
+        "width": 1600,
+        "bytes": 280212
+      }
+    ]
+  },
+  "/projects/straw-rebirth/page-22.webp": {
+    "width": 2000,
+    "height": 2829,
+    "variants": [
+      {
+        "src": "/optimized/projects/straw-rebirth/page-22-960.webp",
+        "width": 960,
+        "bytes": 181106
+      },
+      {
+        "src": "/optimized/projects/straw-rebirth/page-22-1600.webp",
+        "width": 1600,
+        "bytes": 341318
+      }
+    ]
+  },
+  "/projects/straw-rebirth/page-23.webp": {
+    "width": 2000,
+    "height": 2829,
+    "variants": [
+      {
+        "src": "/optimized/projects/straw-rebirth/page-23-960.webp",
+        "width": 960,
+        "bytes": 144268
+      },
+      {
+        "src": "/optimized/projects/straw-rebirth/page-23-1600.webp",
+        "width": 1600,
+        "bytes": 254656
+      }
+    ]
+  },
+  "/projects/straw-rebirth/page-24.webp": {
+    "width": 2000,
+    "height": 2829,
+    "variants": [
+      {
+        "src": "/optimized/projects/straw-rebirth/page-24-960.webp",
+        "width": 960,
+        "bytes": 84338
+      },
+      {
+        "src": "/optimized/projects/straw-rebirth/page-24-1600.webp",
+        "width": 1600,
+        "bytes": 155334
+      }
+    ]
+  },
+  "/projects/straw-rebirth/page-26.webp": {
+    "width": 2000,
+    "height": 2829,
+    "variants": [
+      {
+        "src": "/optimized/projects/straw-rebirth/page-26-960.webp",
+        "width": 960,
+        "bytes": 206240
+      },
+      {
+        "src": "/optimized/projects/straw-rebirth/page-26-1600.webp",
+        "width": 1600,
+        "bytes": 370748
+      }
+    ]
+  },
+  "/projects/straw-rebirth/page-27.webp": {
+    "width": 2000,
+    "height": 2829,
+    "variants": [
+      {
+        "src": "/optimized/projects/straw-rebirth/page-27-960.webp",
+        "width": 960,
+        "bytes": 165472
+      },
+      {
+        "src": "/optimized/projects/straw-rebirth/page-27-1600.webp",
+        "width": 1600,
+        "bytes": 312258
+      }
+    ]
+  },
+  "/projects/straw-rebirth/page-28.webp": {
+    "width": 2000,
+    "height": 2829,
+    "variants": [
+      {
+        "src": "/optimized/projects/straw-rebirth/page-28-960.webp",
+        "width": 960,
+        "bytes": 173286
+      },
+      {
+        "src": "/optimized/projects/straw-rebirth/page-28-1600.webp",
+        "width": 1600,
+        "bytes": 308050
+      }
+    ]
+  },
+  "/projects/straw-rebirth/page-29.webp": {
+    "width": 2000,
+    "height": 2829,
+    "variants": [
+      {
+        "src": "/optimized/projects/straw-rebirth/page-29-960.webp",
+        "width": 960,
+        "bytes": 158310
+      },
+      {
+        "src": "/optimized/projects/straw-rebirth/page-29-1600.webp",
+        "width": 1600,
+        "bytes": 279042
+      }
+    ]
+  },
+  "/projects/straw-rebirth/page-3.webp": {
+    "width": 2000,
+    "height": 2829,
+    "variants": [
+      {
+        "src": "/optimized/projects/straw-rebirth/page-3-960.webp",
+        "width": 960,
+        "bytes": 131148
+      },
+      {
+        "src": "/optimized/projects/straw-rebirth/page-3-1600.webp",
+        "width": 1600,
+        "bytes": 231586
+      }
+    ]
+  },
+  "/projects/straw-rebirth/page-30.webp": {
+    "width": 2000,
+    "height": 2829,
+    "variants": [
+      {
+        "src": "/optimized/projects/straw-rebirth/page-30-960.webp",
+        "width": 960,
+        "bytes": 139310
+      },
+      {
+        "src": "/optimized/projects/straw-rebirth/page-30-1600.webp",
+        "width": 1600,
+        "bytes": 245724
+      }
+    ]
+  },
+  "/projects/straw-rebirth/page-31.webp": {
+    "width": 2000,
+    "height": 2829,
+    "variants": [
+      {
+        "src": "/optimized/projects/straw-rebirth/page-31-960.webp",
+        "width": 960,
+        "bytes": 137352
+      },
+      {
+        "src": "/optimized/projects/straw-rebirth/page-31-1600.webp",
+        "width": 1600,
+        "bytes": 241326
+      }
+    ]
+  },
+  "/projects/straw-rebirth/page-32.webp": {
+    "width": 2000,
+    "height": 2829,
+    "variants": [
+      {
+        "src": "/optimized/projects/straw-rebirth/page-32-960.webp",
+        "width": 960,
+        "bytes": 184804
+      },
+      {
+        "src": "/optimized/projects/straw-rebirth/page-32-1600.webp",
+        "width": 1600,
+        "bytes": 323106
+      }
+    ]
+  },
+  "/projects/straw-rebirth/page-34.webp": {
+    "width": 2000,
+    "height": 2829,
+    "variants": [
+      {
+        "src": "/optimized/projects/straw-rebirth/page-34-960.webp",
+        "width": 960,
+        "bytes": 178796
+      },
+      {
+        "src": "/optimized/projects/straw-rebirth/page-34-1600.webp",
+        "width": 1600,
+        "bytes": 325786
+      }
+    ]
+  },
+  "/projects/straw-rebirth/page-4.webp": {
+    "width": 2000,
+    "height": 2829,
+    "variants": [
+      {
+        "src": "/optimized/projects/straw-rebirth/page-4-960.webp",
+        "width": 960,
+        "bytes": 101760
+      },
+      {
+        "src": "/optimized/projects/straw-rebirth/page-4-1600.webp",
+        "width": 1600,
+        "bytes": 179438
+      }
+    ]
+  },
+  "/projects/straw-rebirth/page-5.webp": {
+    "width": 2000,
+    "height": 2829,
+    "variants": [
+      {
+        "src": "/optimized/projects/straw-rebirth/page-5-960.webp",
+        "width": 960,
+        "bytes": 126394
+      },
+      {
+        "src": "/optimized/projects/straw-rebirth/page-5-1600.webp",
+        "width": 1600,
+        "bytes": 227810
+      }
+    ]
+  },
+  "/projects/straw-rebirth/page-6.webp": {
+    "width": 2000,
+    "height": 2829,
+    "variants": [
+      {
+        "src": "/optimized/projects/straw-rebirth/page-6-960.webp",
+        "width": 960,
+        "bytes": 137388
+      },
+      {
+        "src": "/optimized/projects/straw-rebirth/page-6-1600.webp",
+        "width": 1600,
+        "bytes": 239258
+      }
+    ]
+  },
+  "/projects/straw-rebirth/page-7.webp": {
+    "width": 2000,
+    "height": 2829,
+    "variants": [
+      {
+        "src": "/optimized/projects/straw-rebirth/page-7-960.webp",
+        "width": 960,
+        "bytes": 122358
+      },
+      {
+        "src": "/optimized/projects/straw-rebirth/page-7-1600.webp",
+        "width": 1600,
+        "bytes": 220768
+      }
+    ]
+  },
+  "/projects/straw-rebirth/page-8.webp": {
+    "width": 2000,
+    "height": 2829,
+    "variants": [
+      {
+        "src": "/optimized/projects/straw-rebirth/page-8-960.webp",
+        "width": 960,
+        "bytes": 186828
+      },
+      {
+        "src": "/optimized/projects/straw-rebirth/page-8-1600.webp",
+        "width": 1600,
+        "bytes": 337170
+      }
+    ]
+  },
+  "/projects/straw-rebirth/page-9.webp": {
+    "width": 2000,
+    "height": 2829,
+    "variants": [
+      {
+        "src": "/optimized/projects/straw-rebirth/page-9-960.webp",
+        "width": 960,
+        "bytes": 149758
+      },
+      {
+        "src": "/optimized/projects/straw-rebirth/page-9-1600.webp",
+        "width": 1600,
+        "bytes": 262390
+      }
+    ]
+  }
+}
